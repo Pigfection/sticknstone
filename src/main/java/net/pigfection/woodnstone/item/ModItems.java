@@ -86,10 +86,10 @@ public static final Item WOODEN_LONGSWORD = registerItem("wooden_longsword",
             new SwordItem(ToolMaterials.STONE,7,-3.2f, new FabricItemSettings()));
 
     public static final Item WOODEN_GREATAXE = registerItem("wooden_greataxe",
-            new SwordItem(ToolMaterials.WOOD,6,-0.9f, new FabricItemSettings()));
+            new SwordItem(ToolMaterials.WOOD,6,-3.1f, new FabricItemSettings()));
 
     public static final Item STONE_GREATAXE = registerItem("stone_greataxe",
-            new SwordItem(ToolMaterials.STONE,6,-0.9f, new FabricItemSettings()));
+            new SwordItem(ToolMaterials.STONE,6,-3.1f, new FabricItemSettings()));
 
     public static final Item WOODEN_CHAKRAM = registerItem("wooden_chakram",
             new SwordItem(ToolMaterials.WOOD,2,-3f, new FabricItemSettings()));
