@@ -2,6 +2,7 @@ package net.pigfection.woodnstone;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.pigfection.woodnstone.item.ModItemGroups;
 import net.pigfection.woodnstone.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -12,7 +13,7 @@ public class WoodNStone implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
+		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
 	}
 }

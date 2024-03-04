@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "woodnstone:item/stone_cutlass"
+  }
+}
