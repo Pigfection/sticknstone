@@ -54,6 +54,8 @@ dependencies {
 	modImplementation "curse.maven:simply-swords-659887:5116899"
 
 	modImplementation "curse.maven:playeranimator-658587:4587215"
+
+	modImplementation "curse.maven:architectury-api-419699:5137936"
 	// modImplementation "net.fabricmc.fabric-api:fabric-api-deprecated:${project.fabric_version}"
 }
 
