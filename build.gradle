@@ -11,7 +11,6 @@ base {
 }
 
 repositories {
-	maven { url "https://maven.shedaniel.me/" }
 	maven { url "https://maven.terraformersmc.com/releases/" }
 
 	maven { url 'https://api.modrinth.com/maven' }
@@ -47,12 +46,7 @@ dependencies {
 	// Uncomment the following line to enable the deprecated Fabric API modules. 
 	// These are included in the Fabric API production distribution and allow you to update your mod to the latest modules at a later more convenient time.
 
-    modApi("me.shedaniel.cloth:cloth-config-fabric:11.1.118") {
-        exclude(group: "net.fabricmc.fabric-api")
-    }
 	modImplementation "curse.maven:simply-swords-659887:5116899"
-
-	modImplementation "curse.maven:architectury-api-419699:5137936"
 
 	// modImplementation "net.fabricmc.fabric-api:fabric-api-deprecated:${project.fabric_version}"
 }

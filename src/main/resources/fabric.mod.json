@@ -8,10 +8,10 @@
 		"Pigfection!"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/Pigfection",
+		"sources": "https://github.com/Pigfection/sticknstone"
 	},
-	"license": "MIT",
+	"license": "TDL",
 	"icon": "assets/sticknstone/icon.png",
 	"environment": "*",
 	"entrypoints": {
@@ -32,7 +32,8 @@
 		"fabricloader": ">=0.15.7",
 		"minecraft": "~1.20.1",
 		"java": ">=17",
-		"fabric-api": "*"
+		"fabric-api": "*",
+		"simplyswords": "\u003e\u003d1.54.0-1.20.1"
 	},
 	"suggests": {
 		"another-mod": "*"
