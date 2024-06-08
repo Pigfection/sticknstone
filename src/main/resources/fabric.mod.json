@@ -2,7 +2,7 @@
 	"schemaVersion": 1,
 	"id": "sticknstone",
 	"version": "${version}",
-	"name": "Wood n' Stone",
+	"name": "Stick n' Stone",
 	"description": "This mod is an addon for Simply Swords which adds wooden and stone variants of all weapons.",
 	"authors": [
 		"Pigfection!"
