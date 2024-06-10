@@ -1,0 +1,48 @@
+{
+  "itemgroup.sticknstone": "Stick n' Stone",
+
+  "item.sticknstone.wooden_longsword": "Деревянный длинный меч",
+  "item.sticknstone.stone_longsword": "Каменный длинный меч",
+
+  "item.sticknstone.wooden_twinblade": "Деревянный двусторонний меч",
+  "item.sticknstone.stone_twinblade": "Каменный двусторонний меч",
+
+  "item.sticknstone.wooden_rapier": "Деревянная рапира",
+  "item.sticknstone.stone_rapier": "Каменная рапира",
+
+  "item.sticknstone.wooden_katana": "Деревянная катана",
+  "item.sticknstone.stone_katana": "Каменная катана",
+
+  "item.sticknstone.wooden_sai": "Деревянные саи",
+  "item.sticknstone.stone_sai": "Каменные саи",
+
+  "item.sticknstone.wooden_spear": "Деревянное копьё",
+  "item.sticknstone.stone_spear": "Каменное копьё",
+
+  "item.sticknstone.wooden_glaive": "Деревянная глефа",
+  "item.sticknstone.stone_glaive": "Каменная глефа",
+
+  "item.sticknstone.wooden_warglaive": "Деревянный боевой клинок",
+  "item.sticknstone.stone_warglaive": "Каменный боевой клинок",
+
+  "item.sticknstone.wooden_cutlass": "Деревянная сабля",
+  "item.sticknstone.stone_cutlass": "Каменная сабля",
+
+  "item.sticknstone.wooden_claymore": "Деревянный клеймор",
+  "item.sticknstone.stone_claymore": "Каменный клеймор",
+
+  "item.sticknstone.wooden_greathammer": "Деревянный большой молот",
+  "item.sticknstone.stone_greathammer": "Каменный большой молот",
+
+  "item.sticknstone.wooden_greataxe": "Деревянная секира",
+  "item.sticknstone.stone_greataxe": "Каменная секира",
+
+  "item.sticknstone.wooden_chakram": "Деревянный чакрам",
+  "item.sticknstone.stone_chakram": "Каменный чакрам",
+
+  "item.sticknstone.wooden_scythe": "Деревянная коса",
+  "item.sticknstone.stone_scythe": "Каменная коса",
+
+  "item.sticknstone.wooden_halberd": "Деревянная алебарда",
+  "item.sticknstone.stone_halberd": "Каменная алебарда"
+}
