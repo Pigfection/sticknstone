@@ -10,10 +10,11 @@ import net.minecraft.util.Identifier;
 import net.pigfection.sticknstone.StickNStone;
 
 public class ModItemGroups {
-    public static final ItemGroup WAS_GROUP = Registry.register(Registries.ITEM_GROUP,
-            new Identifier(StickNStone.MOD_ID, "wooden_chakram"),
-            FabricItemGroup.builder().displayName(Text.translatable("itemgroup.sticknstone"))
-                    .icon(() -> new ItemStack(ModItems.WOODEN_CHAKRAM)).entries((displayContext, entries) -> {
+    public static final ItemGroup STICKNSTONE_ITEMS_GROUP = Registry.register(Registries.ITEM_GROUP,
+            Identifier.of(StickNStone.MOD_ID, "sticknstone_items"),
+            FabricItemGroup.builder().icon(() -> new ItemStack(ModItems.WOODEN_CHAKRAM))
+                    .displayName(Text.translatable("itemgroup.sticknstone"))
+                    .entries((displayContext, entries) -> {
                         entries.add(ModItems.WOODEN_LONGSWORD);
                         entries.add(ModItems.WOODEN_TWINBLADE);
                         entries.add(ModItems.WOODEN_RAPIER);
@@ -44,9 +45,8 @@ public class ModItemGroups {
                         entries.add(ModItems.STONE_CHAKRAM);
                         entries.add(ModItems.STONE_SCYTHE);
                         entries.add(ModItems.STONE_HALBERD);
-
-
                     }).build());
+
 
     public static void registerItemGroups() {
         StickNStone.LOGGER.info("Registering Item Groups for " + StickNStone.MOD_ID);

@@ -9,11 +9,11 @@ import org.slf4j.LoggerFactory;
 
 public class StickNStone implements ModInitializer {
 	public static final String MOD_ID = "sticknstone";
-    public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
+	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
 	@Override
 	public void onInitialize() {
 		ModItemGroups.registerItemGroups();
-		ModItems.registerModItems();
+		ModItems.registerModitems();
 	}
 }
