@@ -12,11 +12,12 @@
     }
   },
   "pattern": [
-    " B",
-    "MM",
-    "s "
+    " MB",
+    "MsM",
+    "s  "
   ],
   "result": {
-    "item": "sticknstone:stone_cutlass"
+    "id": "sticknstone:stone_halberd",
+    "count":  1
   }
 }

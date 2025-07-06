@@ -6,14 +6,18 @@
     },
     "M": {
       "tag": "minecraft:stone_tool_materials"
+    },
+    "B": {
+      "tag": "minecraft:stone_buttons"
     }
   },
   "pattern": [
-    "   ",
-    "sMM",
-    "   "
+    "BMB",
+    "M M",
+    "BsB"
   ],
   "result": {
-    "item": "sticknstone:stone_katana"
+    "id": "sticknstone:stone_chakram",
+    "count":  1
   }
 }

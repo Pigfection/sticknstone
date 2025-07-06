@@ -9,11 +9,12 @@
     }
   },
   "pattern": [
-    "s  ",
+    "  M",
     " M ",
-    "  M"
+    "s  "
   ],
   "result": {
-    "item": "sticknstone:stone_longsword"
+    "id": "sticknstone:stone_rapier",
+    "count":  1
   }
 }

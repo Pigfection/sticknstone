@@ -9,11 +9,12 @@
     }
   },
   "pattern": [
-    "  ",
-    " M",
-    "s "
+    "   ",
+    "sMM",
+    "   "
   ],
   "result": {
-    "item": "sticknstone:stone_sai"
+    "id": "sticknstone:stone_katana",
+    "count":  1
   }
 }

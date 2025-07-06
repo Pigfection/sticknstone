@@ -6,17 +6,15 @@
     },
     "M": {
       "tag": "minecraft:planks"
-    },
-    "B": {
-      "tag": "minecraft:wooden_buttons"
     }
   },
   "pattern": [
-    " MB",
-    "MsM",
+    "  M",
+    " M ",
     "s  "
   ],
   "result": {
-    "item": "sticknstone:wooden_halberd"
+    "id": "sticknstone:wooden_rapier",
+    "count":  1
   }
 }

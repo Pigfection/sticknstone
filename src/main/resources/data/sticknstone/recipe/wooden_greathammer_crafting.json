@@ -12,11 +12,12 @@
     }
   },
   "pattern": [
-    " B",
-    "MM",
-    "s "
+    "MMM",
+    "BBB",
+    " s "
   ],
   "result": {
-    "item": "sticknstone:wooden_cutlass"
+    "id": "sticknstone:wooden_greathammer",
+    "count":  1
   }
 }

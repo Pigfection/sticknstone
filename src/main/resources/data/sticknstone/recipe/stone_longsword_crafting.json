@@ -6,17 +6,15 @@
     },
     "M": {
       "tag": "minecraft:stone_tool_materials"
-    },
-    "B": {
-      "tag": "minecraft:stone_buttons"
     }
   },
   "pattern": [
-    "MMM",
-    "BsB",
-    " s "
+    "s  ",
+    " M ",
+    "  M"
   ],
   "result": {
-    "item": "sticknstone:stone_greataxe"
+    "id": "sticknstone:stone_longsword",
+    "count":  1
   }
 }

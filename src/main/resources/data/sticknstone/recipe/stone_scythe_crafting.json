@@ -5,15 +5,16 @@
       "tag": "c:wood_sticks"
     },
     "M": {
-      "tag": "minecraft:planks"
+      "tag": "minecraft:stone_tool_materials"
     }
   },
   "pattern": [
-    "  ",
-    " M",
-    "s "
+    "MMs",
+    "Ms ",
+    "s  "
   ],
   "result": {
-    "item": "sticknstone:wooden_sai"
+    "id": "sticknstone:stone_scythe",
+    "count":  1
   }
 }

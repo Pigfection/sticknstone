@@ -5,18 +5,19 @@
       "tag": "c:wood_sticks"
     },
     "M": {
-      "tag": "minecraft:planks"
+      "tag": "minecraft:stone_tool_materials"
     },
     "B": {
-      "tag": "minecraft:wooden_buttons"
+      "tag": "minecraft:stone_buttons"
     }
   },
   "pattern": [
-    "MMM",
-    "BsB",
-    " s "
+    " B ",
+    "MsM",
+    "   "
   ],
   "result": {
-    "item": "sticknstone:wooden_greataxe"
+    "id": "sticknstone:stone_warglaive",
+    "count":  1
   }
 }

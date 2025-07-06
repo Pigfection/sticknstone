@@ -10,10 +10,11 @@
   },
   "pattern": [
     "  M",
-    " M ",
-    "s  "
+    " s ",
+    "M  "
   ],
   "result": {
-    "item": "sticknstone:stone_rapier"
+    "id": "sticknstone:stone_twinblade",
+    "count":  1
   }
 }

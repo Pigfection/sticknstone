@@ -6,17 +6,15 @@
     },
     "M": {
       "tag": "minecraft:stone_tool_materials"
-    },
-    "B": {
-      "tag": "minecraft:stone_buttons"
     }
   },
   "pattern": [
-    "BMB",
-    "M M",
-    "BsB"
+    "  ",
+    " M",
+    "s "
   ],
   "result": {
-    "item": "sticknstone:stone_chakram"
+    "id": "sticknstone:stone_sai",
+    "count":  1
   }
 }

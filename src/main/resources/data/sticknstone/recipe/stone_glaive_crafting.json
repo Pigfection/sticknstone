@@ -1,3 +1,4 @@
+
 {
   "type": "minecraft:crafting_shaped",
   "key": {
@@ -5,15 +6,17 @@
       "tag": "c:wood_sticks"
     },
     "M": {
-      "tag": "minecraft:planks"
+      "tag": "minecraft:stone_tool_materials"
     }
   },
   "pattern": [
-    "MMs",
-    "Ms ",
+    "  M",
+    " sM",
     "s  "
   ],
   "result": {
-    "item": "sticknstone:wooden_scythe"
+    "id": "sticknstone:stone_glaive",
+    "count":  1
   }
 }
+

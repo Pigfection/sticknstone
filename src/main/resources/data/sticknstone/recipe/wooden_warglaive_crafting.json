@@ -5,18 +5,19 @@
       "tag": "c:wood_sticks"
     },
     "M": {
-      "tag": "minecraft:stone_tool_materials"
+      "tag": "minecraft:planks"
     },
     "B": {
-      "tag": "minecraft:stone_buttons"
+      "tag": "minecraft:wooden_buttons"
     }
   },
   "pattern": [
-    " BM",
-    "BMB",
-    "sB "
+    " B ",
+    "MsM",
+    "   "
   ],
   "result": {
-    "item": "sticknstone:stone_claymore"
+    "id": "sticknstone:wooden_warglaive",
+    "count":  1
   }
 }

@@ -6,14 +6,18 @@
     },
     "M": {
       "tag": "minecraft:planks"
+    },
+    "B": {
+      "tag": "minecraft:wooden_buttons"
     }
   },
   "pattern": [
-    "  M",
-    " M ",
-    "s  "
+    "BMB",
+    "M M",
+    "BsB"
   ],
   "result": {
-    "item": "sticknstone:wooden_rapier"
+    "id": "sticknstone:wooden_chakram",
+    "count":  1
   }
 }

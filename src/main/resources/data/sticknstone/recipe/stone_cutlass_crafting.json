@@ -6,14 +6,18 @@
     },
     "M": {
       "tag": "minecraft:stone_tool_materials"
+    },
+    "B": {
+      "tag": "minecraft:stone_buttons"
     }
   },
   "pattern": [
-    "  M",
-    " s ",
-    "s  "
+    " B",
+    "MM",
+    "s "
   ],
   "result": {
-    "item": "sticknstone:stone_spear"
+    "id": "sticknstone:stone_cutlass",
+    "count":  1
   }
 }

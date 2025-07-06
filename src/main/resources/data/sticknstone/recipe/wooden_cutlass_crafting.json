@@ -6,14 +6,18 @@
     },
     "M": {
       "tag": "minecraft:planks"
+    },
+    "B": {
+      "tag": "minecraft:wooden_buttons"
     }
   },
   "pattern": [
-    "   ",
-    "sMM",
-    "   "
+    " B",
+    "MM",
+    "s "
   ],
   "result": {
-    "item": "sticknstone:wooden_katana"
+    "id": "sticknstone:wooden_cutlass",
+    "count":  1
   }
 }

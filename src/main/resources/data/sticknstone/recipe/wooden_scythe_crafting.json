@@ -9,11 +9,12 @@
     }
   },
   "pattern": [
-    "  M",
-    " s ",
-    "M  "
+    "MMs",
+    "Ms ",
+    "s  "
   ],
   "result": {
-    "item": "sticknstone:wooden_twinblade"
+    "id": "sticknstone:wooden_scythe",
+    "count":  1
   }
 }

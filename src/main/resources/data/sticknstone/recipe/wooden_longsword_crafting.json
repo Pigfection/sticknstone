@@ -6,17 +6,15 @@
     },
     "M": {
       "tag": "minecraft:planks"
-    },
-    "B": {
-      "tag": "minecraft:wooden_buttons"
     }
   },
   "pattern": [
-    " BM",
-    "BMB",
-    "sB "
+    "s  ",
+    " M ",
+    "  M"
   ],
   "result": {
-    "item": "sticknstone:wooden_claymore"
+    "id": "sticknstone:wooden_longsword",
+    "count":  1
   }
 }

@@ -9,11 +9,12 @@
     }
   },
   "pattern": [
-    "s  ",
-    " M ",
-    "  M"
+    "  M",
+    " sM",
+    "s  "
   ],
   "result": {
-    "item": "sticknstone:wooden_longsword"
+    "id": "sticknstone:wooden_glaive",
+    "count":  1
   }
 }

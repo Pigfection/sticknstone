@@ -12,11 +12,12 @@
     }
   },
   "pattern": [
-    " MB",
-    "MsM",
-    "s  "
+    "MMM",
+    "BsB",
+    " s "
   ],
   "result": {
-    "item": "sticknstone:stone_halberd"
+    "id": "sticknstone:stone_greataxe",
+    "count":  1
   }
 }

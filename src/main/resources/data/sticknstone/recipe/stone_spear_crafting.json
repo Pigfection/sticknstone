@@ -10,10 +10,11 @@
   },
   "pattern": [
     "  M",
-    " sM",
+    " s ",
     "s  "
   ],
   "result": {
-    "item": "sticknstone:stone_glaive"
+    "id": "sticknstone:stone_spear",
+    "count":  1
   }
 }

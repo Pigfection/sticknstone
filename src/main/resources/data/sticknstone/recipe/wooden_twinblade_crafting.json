@@ -11,9 +11,10 @@
   "pattern": [
     "  M",
     " s ",
-    "s  "
+    "M  "
   ],
   "result": {
-    "item": "sticknstone:wooden_spear"
+    "id": "sticknstone:wooden_twinblade",
+    "count":  1
   }
 }
